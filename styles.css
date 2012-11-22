@@ -1,0 +1,31 @@
+.c {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border : solid 1px #AAA;
+    float : left;
+    margin : 1px;
+}
+.red {
+    background: #f00;
+}
+.green {
+    background: #0f0;
+}
+.blue {
+    background: #00f;
+}
+.black {
+    background: #000;
+}
+.gray {
+    background: #ccc;
+}
+.yellow {
+    background: #ff0;
+}
+.row {
+    border : solid black 1px;
+    overflow : hidden;
+    display : inline-block;
+}
